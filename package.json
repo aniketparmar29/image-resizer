@@ -1,0 +1,18 @@
+{
+  "name": "image-resier-elctronapp",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^24.3.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
